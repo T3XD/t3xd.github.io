@@ -11,4 +11,4 @@ La página web es completamente responsiva y se adapta a cualquier dispositivo. 
 - Diseño original de la flor inspirado en [CodePen](https://codepen.io/Nilver-TI/pen/PoroWJa) por Md Usman Ansari.
 
 ## Autor
-- **Nilver TI**
+- ****
